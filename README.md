@@ -20,8 +20,9 @@ This project demonstrates how to automate sentiment and category classification 
 
 1. Create tables using `create_tables.sql`
 2. Load data using `COPY INTO` from stage
-3. Run `classify_feedback.sql` or automate with `automation_procedure.sql` + `automation_task.sql`
-4. Visualize using `visualization_query.sql`
+3. Run `initial_load.sql` to do a bulk initial load processing
+4. Run `classify_feedback.sql` or automate with `automation_procedure.sql` + `automation_task.sql`
+5. Visualize using `visualization_query.sql`
 
 ## License
 
