@@ -23,7 +23,3 @@ This project demonstrates how to automate sentiment and category classification 
 3. Run `initial_load.sql` to do a bulk initial load processing
 4. Run `classify_feedback.sql` or automate with `automation_procedure.sql` + `automation_task.sql`
 5. Visualize using `visualization_query.sql`
-
-## License
-
-MIT
