@@ -1,5 +1,5 @@
 
-# 🧠 DemoMart Feedback Insights with Snowflake Cortex
+# DemoMart Feedback Insights with Snowflake Cortex
 
 This project demonstrates how to automate sentiment and category classification for customer feedback using **Snowflake Cortex** and SQL—no machine learning model training required.
 
